@@ -1,7 +1,7 @@
-# Project 2017: Theory of Algorithms
+# Project 2017: Graph Theory
 
-These are the instructions for the module **Theory of Algorithms**.
-The module is taught to fourth year undergraduate students at [GMIT](http://www.gmit.ie).
+These are the instructions for the module **Graph Theory**.
+The module is taught to third year undergraduate students at [GMIT](http://www.gmit.ie).
 The lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
 
 #### Compilation
